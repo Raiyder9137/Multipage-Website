@@ -1,0 +1,25 @@
+.imp{
+    font-weight: bolder;
+    color:red;
+}
+h2{
+    font-weight: bold;
+    color: orangered;
+}
+p{
+    font-style: italic;
+}
+header{
+    font-weight: bold;
+    color:blueviolet;
+}
+body{
+    background-color: lightskyblue;
+}
+footer{
+    font-size: small;
+    font-weight: lighter;
+}
+main{
+    color: black;
+}
